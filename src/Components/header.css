@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    /* border: 2px solid white; */
+    /* margin-top: 50px; */
+}
+.header_icon{
+    width: 100px;
+    height: 50px;
+}
+.headerLeft{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    
+}
